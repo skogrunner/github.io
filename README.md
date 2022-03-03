@@ -1,2 +1,2 @@
 # github.io
-# My first html/css assignment through Codecamedy.
+# My first html/css assignment through Codecademy.
